@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '5316'
     url: http://www.gutenberg.org/2009/agents/5316
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13988#Fugitive-Slave-Law--13-The-Religious-Duty-of-Obedience-to-Law---A-Sermon-by-Ichabod-S.-Spence_
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2004-11-09'
 gutenberg_type: Text
